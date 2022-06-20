@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c759fa927ed7984bb1e8848485d3b82, type: 3}
+  m_Name: InventoryDatabase
+  m_EditorClassIdentifier: 
+  Items:
+  - Name: Iron Axe
+    Image: {fileID: 2800000, guid: f765ee28d58817643a40caace27f4a79, type: 3}
+  - Name: Steel Axe
+    Image: {fileID: 2800000, guid: fd1b63f2692a9464dbb98355e9f4ce6b, type: 3}
+  - Name: Bow
+    Image: {fileID: 2800000, guid: 7360c0a5f3c1f914998909dbbc7777ae, type: 3}
+  - Name: Wood Hammer
+    Image: {fileID: 2800000, guid: 45054f70aee8ffe4caaff56f2f700d88, type: 3}
+  - Name: Iron Hammer
+    Image: {fileID: 2800000, guid: 781c11b15417d724894e5dbde181d126, type: 3}
+  - Name: Steel Hammer
+    Image: {fileID: 2800000, guid: df5e96b8d2d4a1d4fa94bf31af7d970a, type: 3}
+  - Name: Iron Sword
+    Image: {fileID: 2800000, guid: eabfdd7ab1648c64ea12a04c3bac3f59, type: 3}
+  - Name: Steel Sword
+    Image: {fileID: 2800000, guid: f7434d92d71c4f54ea0e9baf205f578e, type: 3}
+  - Name: Wooden Sword
+    Image: {fileID: 2800000, guid: d50b396cf2aad1649a1576015d790cf9, type: 3}
+  - Name: Arrow
+    Image: {fileID: 2800000, guid: 161a19856b8dd0340afc59ebb7c7fd66, type: 3}
+  - Name: Apple
+    Image: {fileID: 2800000, guid: eb37f8d5be4a7bd4b88e6b1efe870b4c, type: 3}
+  - Name: Bowl
+    Image: {fileID: 2800000, guid: b9cd9323bca00cd409238e65c1493b70, type: 3}
+  - Name: Fish
+    Image: {fileID: 2800000, guid: f078e1b60c9f2da4cbf79235ddde3945, type: 3}
+  - Name: Fishing Pole
+    Image: {fileID: 2800000, guid: c716080f6e2393b49a0198acbcf023e4, type: 3}
+  - Name: Iron Flail
+    Image: {fileID: 2800000, guid: ae6cdd6c793341b4ab01d11948ddc79a, type: 3}
+  - Name: Steel Flail
+    Image: {fileID: 2800000, guid: 1266b2f21cd1a6242afc5970554167de, type: 3}
+  - Name: Iron Hoe
+    Image: {fileID: 2800000, guid: 20d2931fe05b59b478150bc6cae3fab0, type: 3}
+  - Name: Steel Hoe
+    Image: {fileID: 2800000, guid: f4a6efc844a1ed8418023854a2a7e46d, type: 3}
+  - Name: Coal
+    Image: {fileID: 2800000, guid: 34657c41dd1acc744bf6f261f8f58dd9, type: 3}
+  - Name: Iron Ore
+    Image: {fileID: 2800000, guid: f0b213e688c5db34baf3bd1a345c6db1, type: 3}
+  - Name: Gold Ore
+    Image: {fileID: 2800000, guid: 47b70246e6f2c434b8914d8c30c6b298, type: 3}
+  - Name: Ruby
+    Image: {fileID: 2800000, guid: 39e4781f0aff6924193725b27eb9be0d, type: 3}
+  - Name: Silver Ore
+    Image: {fileID: 2800000, guid: b18b1dfa943017d42b2175f2ac2abfe4, type: 3}
+  - Name: Diamond
+    Image: {fileID: 2800000, guid: 09c15028c032e604b98424a55c4b75d1, type: 3}
+  - Name: Emerald
+    Image: {fileID: 2800000, guid: 967baa8cd920dff459c08f6588098d9f, type: 3}
+  - Name: Iron Pickaxe
+    Image: {fileID: 2800000, guid: 7dcf3329e6e3ffe4eb655eab2420fdfb, type: 3}
+  - Name: Steel Pickaxe
+    Image: {fileID: 2800000, guid: 0457ab19bfb7bf04e84d29416d5ae293, type: 3}
+  - Name: Seed
+    Image: {fileID: 2800000, guid: 8d3a6eab6ce66574299f7f4f0cf64cd6, type: 3}
+  - Name: Shovel
+    Image: {fileID: 2800000, guid: d434cbbbb8b9dcb458e262b102ae67b3, type: 3}
+  - Name: Wheat
+    Image: {fileID: 2800000, guid: 41b278a20731a9c4a8e4db47f4952beb, type: 3}
